@@ -14,7 +14,7 @@ mock==5.0.1
 monotonic==1.6
 numpy==1.24.1
 ordereddict==1.1
-protobuf==4.21.12
+protobuf==3.12
 pyOpenSSL==23.0.0
 simplejson==3.18.1
 streamlit==1.17.0
