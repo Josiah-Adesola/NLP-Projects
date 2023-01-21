@@ -14,9 +14,9 @@ def get_model():
 tokenizer, model = get_model()
 
 st.title("Toxic Statements Text Classification Web App")
-st.markdown("This project was developed by Josiah Adesola, and greatly refrenced from Pradip Nichite tutorial video ")
+st.markdown("This project was developed by Josiah Adesola, and greatly refrenced from Pradip Nichite youtube video ")
 #(https://www.youtube.com/watch?v=mvIp9TvPMh0&list=PLAMHV77MSKJ4Z4OXqao1gRdfQK7VQYAXb&index=9&t=292s) 
-st.markdown("This model was gotten from the pretrained bert model, fine-tuned and uploaded to my hugging face portfolio, with the help of Pradip videos")
+#st.markdown("This model was gotten from the pretrained bert model, fine-tuned and uploaded to my hugging face portfolio, with the help of Pradip videos")
 
 st.image("Toxic-Text-Classification/toxic_img.png")
 user_input = st.text_area('Enter the text to analyze')
