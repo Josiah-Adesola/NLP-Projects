@@ -22,6 +22,6 @@ torch==1.13.1
 tornado==6.2
 transformers==4.25.1
 urllib3_secure_extra==0.1.0
-wincertstore==0.2.1
+wincertstore==0.1
 xmlrpclib==1.0.1
 zipp==3.11.0
